@@ -2,22 +2,22 @@
 ## Purpose:
 It's 2nd year project of Epitech.<br/>
 The goal of this project is to create a **server** and a **CLI client** in C.<br/>
-The network communication will be achieved through the use of TCP sockets.<br\>
+The network communication will be achieved through the use of TCP sockets.<br/>
 
-Your server is able to manage a collaborative communication application like the well known Microsoft Teams.<br\>
-A collaborative communication application is a service able to manage severall communication teams, where discussion are organised like following:<br\>
-• threads (initial post and additional comments) in a specific channel<br\>
-• discussion (personnal messages)<br\>
+Your server is able to manage a collaborative communication application like the well known Microsoft Teams.<br/>
+A collaborative communication application is a service able to manage severall communication teams, where discussion are organised like following:<br/>
+• threads (initial post and additional comments) in a specific channel<br/>
+• discussion (personnal messages)<br/>
 
 Here are the features implemented :
-• Creating/Joining/Leaving a team<br\>
-• Creating a user<br\>
-• Creating a channel in a team<br\>
-• Creating a thread in a channel<br\>
-• Creating a comment in a thread<br\>
-• Saving & restoring users, teams, channels, threads & associated comments<br\>
-• Personnal discussion (from a user to an other)<br\>
-• Saving & restoring personnal discussion<br\>
+• Creating/Joining/Leaving a team<br/>
+• Creating a user<br/>
+• Creating a channel in a team<br/>
+• Creating a thread in a channel<br/>
+• Creating a comment in a thread<br/>
+• Saving & restoring users, teams, channels, threads & associated comments<br/>
+• Personnal discussion (from a user to an other)<br/>
+• Saving & restoring personnal discussion<br/>
 
 ## Usage:
 
@@ -39,7 +39,7 @@ ip is the server ip address on which the server socket listens
 port is the port number on which the server socket listens
 ```
 
-The client can handle the following command from the standard input:<br\>
+The client can handle the following command from the standard input:
 ```
 • /help : show help
 • /login [“username”] : set the username used by client
