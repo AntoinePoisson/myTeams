@@ -39,7 +39,7 @@ ip is the server ip address on which the server socket listens
 port is the port number on which the server socket listens
 ```
 
-The client can handle the following command from the standard input:
+ - The client can handle the following command from the standard input:
 ```
 • /help : show help
 • /login [“username”] : set the username used by client
