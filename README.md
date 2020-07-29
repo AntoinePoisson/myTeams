@@ -59,5 +59,5 @@ of all events from a team)
 ```
 
 ## Note:
-Grade A<br\>
+Grade A<br/>
 Result moulinette Epitech: 95%
