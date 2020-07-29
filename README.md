@@ -21,7 +21,7 @@ Here are the features implemented :
 
 ## Usage:
 
-To be build:
+To build:
 ```
 make
 ```
