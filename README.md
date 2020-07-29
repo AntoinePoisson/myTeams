@@ -23,7 +23,7 @@ Here are the features implemented : <br/>
 
 - To build:
 ```
-make
+$ make
 ```
 
  - Usage server:
