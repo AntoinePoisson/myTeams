@@ -9,7 +9,7 @@ A collaborative communication application is a service able to manage severall c
 • threads (initial post and additional comments) in a specific channel<br\>
 • discussion (personnal messages)<br\>
 
-Here are the features implemented :<br\>
+Here are the features implemented :
 • Creating/Joining/Leaving a team<br\>
 • Creating a user<br\>
 • Creating a channel in a team<br\>
@@ -21,18 +21,18 @@ Here are the features implemented :<br\>
 
 ## Usage:
 
-To be build:<br\>
+To be build:
 ```
 make
 ```
 
- - Usage server:<br\>
+ - Usage server:
 ```
 $ ./myteams_server port
 port is the port number on which the server socket listens.
 ```
 
- - Usage client:<br\>
+ - Usage client:
 ```
 $  ./myteams_cli ip port
 ip is the server ip address on which the server socket listens
