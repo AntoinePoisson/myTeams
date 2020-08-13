@@ -13,7 +13,7 @@ A collaborative communication application is a service able to manage severall c
 • threads (initial post and additional comments) in a specific channel<br/>
 • discussion (personnal messages)<br/>
 
-Here are the features implemented : <br/>
+## Features:
 • Creating/Joining/Leaving a team<br/>
 • Creating a user<br/>
 • Creating a channel in a team<br/>
