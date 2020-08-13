@@ -4,6 +4,8 @@ It's 2nd year project of Epitech.<br/>
 The goal of this project is to create a **server** and a **CLI client** in C.<br/>
 The network communication will be achieved through the use of TCP sockets.<br/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" alt="" height="252" width="276" />
+
 Your server is able to manage a collaborative communication application like the well known Microsoft Teams.<br/>
 A collaborative communication application is a service able to manage severall communication teams, where discussion are organised like following:<br/>
 • threads (initial post and additional comments) in a specific channel<br/>
